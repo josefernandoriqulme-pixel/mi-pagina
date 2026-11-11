@@ -1,0 +1,14 @@
+ul li a{
+    text-decoration: none;
+    display: inline-block;
+    color:aliceblue;
+    padding: 10px;
+}
+
+.Footer{
+    text-align: center;
+    font-weight: bolder;
+    padding: 50px;
+    background-color: beige;
+    color: black;
+}

@@ -7,5 +7,52 @@
 
 h1 {
   text-align: center;
+  color: red;
+  background-color: black;
+  padding: 25px;
+  margin: 0%;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  background-color: beige;
+}
+
+a{
+
+  color: red;
+  text-decoration: none;
+}
+
+Nav ul{
+  padding: 15px;
+  text-align: center;
   
 }
+
+.list{
+  padding: 15px;
+  font-size:x-large;
+}
+
+.list:hover{
+  color: black;
+}
+
+.App-logo {
+  width: 300px;
+  height: auto;
+}
+
+.registro{
+  text-align: center;
+  padding: 25px;
+}
+
+.loguearse{
+  text-align: center;
+}
+
+
+
